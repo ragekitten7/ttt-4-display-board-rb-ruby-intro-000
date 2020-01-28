@@ -10,4 +10,4 @@ def display_board(board)
   puts "#{lines}"
   puts "#{board[6]} #{pipe} #{board[7]} #{pipe} #{board[8]}"
 end
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
